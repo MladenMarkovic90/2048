@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Files">
+        <file>Files/2048.png</file>
+        <file>Files/Down.png</file>
+        <file>Files/Left.png</file>
+        <file>Files/Right.png</file>
+        <file>Files/Up.png</file>
+    </qresource>
+</RCC>
